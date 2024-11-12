@@ -4,7 +4,11 @@ This is on going developement of divice drivers in RUST the book that I am takin
 
 Built following drivers
 - Hello world driver
-- Char driver
-- Block driver
+- Module parameter driver
+- scull driver
+- jit driver
+- Block device driver
+- tty device driver
 - currently working on PCI driver
-  
+
+Realise that gpt has some blind spot for rust so also working on the RAG
